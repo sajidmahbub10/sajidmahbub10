@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Ibna Mahbub</h1>
 <h3 align="center">A passionate struggling CSE student from Bangladesh</h3>
 
-<p align="left"> <img src="https://tenor.com/byizm.gif" /> </p>
+<p align="center"> <img src="https://tenor.com/bimC7.gif"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmahbub10" alt="sajidmahbub10" /></a> </p>
 
