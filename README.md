@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Ibna Mahbub</h1>
 <h3 align="center">A passionate struggling CSE student from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidmahbub10&label=Profile%20views&color=0e75b6&style=flat" alt="sajidmahbub10" /> </p>
+<p align="left"> <img src="https://gifdb.com/gifs/uchiha-clan-sharingan-eye-wgp1zlb0kx3fsgwb.html" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmahbub10" alt="sajidmahbub10" /></a> </p>
 
