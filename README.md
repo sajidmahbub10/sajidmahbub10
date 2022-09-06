@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajid Ibna Mahbub</h1>
 <h3 align="center">A passionate struggling CSE student from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="13307647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">Soulja Boy Pepe Sticker</a>from <a href="https://tenor.com/search/soulja+boy-stickers">Soulja Boy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidmahbub10&label=Profile%20views&color=0e75b6&style=flat" alt="sajidmahbub10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmahbub10" alt="sajidmahbub10" /></a> </p>
