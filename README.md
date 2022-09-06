@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Ibna Mahbub</h1>
 <h3 align="center">A passionate struggling CSE student from Bangladesh</h3>
 
-<p align="left"> <img src="https://www.google.com/search?q=gif+of+itachi&sxsrf=ALiCzsZ3OP0FaDxJcrsSJqUDczaAhXxibA:1662482505189&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi06ar5zYD6AhUT3TgGHQGABZcQ_AUoAXoECAEQAw&biw=1280&bih=601&dpr=1.5#imgrc=M7YhnuKkQ7yyMM" /> </p>
+<p align="left"> <img src="https://tenor.com/view/itachi-uchiha-naruto-fire-red-eyes-anime-gif-17830637" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmahbub10" alt="sajidmahbub10" /></a> </p>
 
