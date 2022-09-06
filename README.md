@@ -2,7 +2,7 @@
 <h3 align="center">A passionate struggling CSE student from Bangladesh</h3>
 
 <p align="center"> <img src="https://tenor.com/bimC7.gif"/> </p>
-
+<img align="center" alt="Coding" width="400" src="https://tenor.com/bimC7.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmahbub10" alt="sajidmahbub10" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Web Development, Problem Solving**
