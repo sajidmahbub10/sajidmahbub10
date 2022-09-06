@@ -15,10 +15,11 @@
 
 - 📫 How to reach me **sajid.mahbub40@gmail.com**
 
-- ⚡ Fun fact **I'm a geek**
+- ⚡ Fun fact **I'm a Weeb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/sajid.mahbub29th/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajid.mahbub29th/" height="30" width="40" /></a>
 <a href="https://instagram.com/askeladd_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="askeladd_29" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidmahbub10&show_icons=true&locale=en&layout=compact" alt="sajidmahbub10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajidmahbub10&show_icons=true&locale=en" alt="sajidmahbub10" /></p>
-
