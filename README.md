@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Problem Solving**
 
-- 👨‍💻 My Portfolio [https://sites.google.com/view/sajidmahbub](https://sites.google.com/view/sajidmahbub)
+- 👨‍💻 My LinkedIn [https://www.linkedin.com/in/sajidmahbub10](https://www.linkedin.com/in/sajidmahbub10)
 
 - 💬 Ask me about **C++, C#, PHP, PYTHON, JAVA, JAVASCRIPT, AJAX**
 
