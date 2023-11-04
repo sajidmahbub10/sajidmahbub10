@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, C#, PHP, PYTHON, JAVA, JAVASCRIPT, AJAX**
 
-- 📫 How to reach me **sajid.mahbub40@gmail.com**
+- 📫 How to reach me **sajid.mahbub10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
